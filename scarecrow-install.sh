@@ -13,7 +13,7 @@ sudo apt-get install mingw-w64
 
 mkdir bypass
 cd bypass
-git clone https://github.com/optiv/ScareCrow
+git clone https://github.com/Tylous/ScareCrow
 cd ScareCrow
 go build ScareCrow.go
 ./ScareCrow 
